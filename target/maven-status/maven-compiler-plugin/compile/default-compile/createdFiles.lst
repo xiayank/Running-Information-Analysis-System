@@ -1,0 +1,9 @@
+demo/domain/RunningInformationAnalysis.class
+demo/domain/UserInfo.class
+demo/service/RunningAnalysisService.class
+demo/domain/RunningInformationAnalysisRepository.class
+demo/RunningInformationAnalysisServiceApplication.class
+demo/rest/RunningInformationAnalysisController$1.class
+demo/rest/RunningInformationAnalysisController.class
+demo/service/impl/RunningAnalysisServiceImpl.class
+demo/domain/RunningInformationAnalysis$HealWarningLevel.class
