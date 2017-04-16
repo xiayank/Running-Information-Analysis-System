@@ -106,7 +106,7 @@ public class RunningInformationAnalysisController {
     }
 
 
-    
+
     private List<JSONObject> flatJson(List<RunningInformationAnalysis> content) {
         List<JSONObject> results = new ArrayList<JSONObject>();
 

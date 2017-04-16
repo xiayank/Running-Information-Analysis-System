@@ -1,4 +1,4 @@
-running-information-database:
+running_information_database:
   image: mysql
   container_name: running_information_database
   ports:
