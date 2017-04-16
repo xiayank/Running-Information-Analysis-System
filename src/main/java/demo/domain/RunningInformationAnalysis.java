@@ -4,7 +4,7 @@ import com.fasterxml.jackson.annotation.JsonCreator;
 import com.fasterxml.jackson.annotation.JsonInclude;
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.Data;
-import org.springframework.data.annotation.Id;
+//import org.springframework.data.annotation.Id;
 
 import javax.persistence.*;
 import java.util.Date;
@@ -13,7 +13,6 @@ import java.util.Random;
 /**
  * Created by NIC on 4/11/17.
  */
-
 @JsonInclude(JsonInclude.Include.NON_NULL)
 @Entity
 @Data

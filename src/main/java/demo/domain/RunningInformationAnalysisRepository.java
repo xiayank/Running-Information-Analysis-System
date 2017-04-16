@@ -21,4 +21,5 @@ public interface RunningInformationAnalysisRepository extends JpaRepository<Runn
                 Pageable pageable
         );
 
+        Page<RunningInformationAnalysis>findAllByOrderByHeartRate(Pageable pageabe);
 }

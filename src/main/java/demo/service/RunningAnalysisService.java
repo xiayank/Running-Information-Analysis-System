@@ -23,4 +23,6 @@ public interface RunningAnalysisService {
 
     public void deleteAll();
 
+    public List<RunningInformationAnalysis>findAll();
+
 }
