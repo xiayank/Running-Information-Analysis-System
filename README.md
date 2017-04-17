@@ -1,12 +1,14 @@
 Running Information Analysis Service 
-===
-CS504_Homework_1
 ==
-##Download code 
+CS504_Homework_1
+===
+Download code 
+===
 
 
     git https://github.com/xiayank/RunningInformationAnalysis.git
-##Start up the database
+Start up the database
+===
 
 Go to project folder, start up Mysql docker.
 
