@@ -17,9 +17,9 @@ Look up existed database.
 
     show database;
 
-If there is no database called `private`, then create one.
+If there is no database called `running_information_analysis_db`, then create one.
 
-    create database private;
+    create database running_information_analysis_db;
 Quit the mysql.
 
     quit;
@@ -49,7 +49,7 @@ Use `Postman` to make a __GET__ request with URL:
     http://localhost:9000/findAllByOrder
 It should return all 7 JSON data with required format. And default page = 0, size = 2. 
 
----
+__
 
 #### 3.Return all the info great than a heart rate using _heartRateGreatThan_ API
 Use `Postman` to make a __GET__ request with URL:

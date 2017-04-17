@@ -16,7 +16,7 @@ import java.util.Random;
 @JsonInclude(JsonInclude.Include.NON_NULL)
 @Entity
 @Data
-//@Table(name = "private")
+@Table(name = "private")
 public class RunningInformationAnalysis {
 
     public enum HealWarningLevel{
