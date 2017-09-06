@@ -1,6 +1,6 @@
 Running Information Analysis Service 
 ==
-CS504_Homework_1
+This is a service designed in Spring Boot/Data to provide REST APIs for storing/retrieving runner's information in MySQL database.
 ---
 Download code 
 ---
